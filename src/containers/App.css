@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.TodoApp {
+    background: linear-gradient(-90deg, #e3f2f6, #1fb729);
+    color: #222;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+}
